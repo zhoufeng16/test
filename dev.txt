@@ -1,3 +1,7 @@
 啊啊地方
 This is the second line & Simple AND Simple
+<<<<<<< Updated upstream
 哈哈
+=======
+股价
+>>>>>>> Stashed changes
